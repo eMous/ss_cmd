@@ -1,2 +1,2 @@
-# ss_cmd_tool
+# ss_cmd
 shadowsocks-libev command tool
